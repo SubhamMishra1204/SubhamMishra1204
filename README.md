@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Mishra</h1>
-<h3 align="center">Aspiring Data Scientist | Python Developer | Cloud Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Python Developer | Linux and Cloud Enthusiast</h3>
 ## 🧐 About Me
 
 - 🔭 I’m currently working on **Data Science & Python Development**
